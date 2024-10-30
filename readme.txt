@@ -4,7 +4,7 @@ Contributors: CreativeMindsSolutions
 Donate link: https://www.cminds.com/wordpress-plugins-library/downloadsmanager/
 Tags: file manager, downloads, download manager, file manager plugin, document management
 Requires at least: 5.4.0
-Tested up to: 6.6
+Tested up to: 6.7
 Stable tag: 2.9.3
 Requires PHP: 5.2.4
 License: GPLv2 or later
